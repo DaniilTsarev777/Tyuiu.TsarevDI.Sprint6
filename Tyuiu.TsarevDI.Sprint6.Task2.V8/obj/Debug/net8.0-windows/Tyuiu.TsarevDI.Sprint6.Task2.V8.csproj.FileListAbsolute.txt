@@ -1,8 +1,0 @@
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.csproj.AssemblyReference.cache
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.FormMain.resources
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.Properties.Resources.resources
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.csproj.GenerateResource.cache
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.AssemblyInfoInputs.cache
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.AssemblyInfo.cs
-D:\repos\Tyuiu.TsarevDI.Sprint6\Tyuiu.TsarevDI.Sprint6.Task2.V8\obj\Debug\net8.0-windows\Tyuiu.TsarevDI.Sprint6.Task2.V8.csproj.CoreCompileInputs.cache
